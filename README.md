@@ -170,4 +170,5 @@ The project integrates multiple business data sources:
 - **Cross-validation** for model reliability
 - **Performance monitoring** with R² and MAPE metrics
 
-
+## 👤 Author
+**Suneeth Reddy Peddamallu** — [GitHub](https://github.com/Suneeth12) • [Portfolio](https://suneeth.live) • [LinkedIn](https://linkedin.com/in/suneeth-reddy-peddamallu)
